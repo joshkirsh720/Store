@@ -1,0 +1,8 @@
+
+public class Item {
+	String name, description;
+	double price;
+	int quantity;
+	
+	
+}
